@@ -32,7 +32,7 @@ This requires the latest version of Anaconda, WordCloud, and Spacy.
 ## Examples
 ![](./Images/Sentiment.JPG)
 ![](./Images/bigram.JPG) 
-![](./Images/class_report.JPG) 
+![](./Images/wordcloud.JPG) 
 
 ## Usage
 

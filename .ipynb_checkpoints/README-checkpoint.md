@@ -2,7 +2,7 @@
 
 This notebook uses Sentiment Analysis to perform a comparative analysis between the sentiment in the news about Bitcoin and Ethereum.  It gives each currency a compound score based on compound, positive, negative, and neutral news. 
 
-The second part uses a tokenizer function to pull out the 10 most popular words from the content of all the articles and displays these most popular words in a wordcloud.  
+The second part uses a tokenizer function to pull out the 10 most popular words from the content of all the articles and displays these most popular words in a wordcloud. This essentially breaks down sentence into invidual words that can analyzed. 
 
 The third part uses natural entity recognition to separate words out by their part of speech.  
 
@@ -32,7 +32,7 @@ This requires the latest version of Anaconda, WordCloud, and Spacy.
 ## Examples
 ![](./Images/Sentiment.JPG)
 ![](./Images/bigram.JPG) 
-![](./Images/class_report.JPG) 
+![](./Images/wordcloud.JPG) 
 
 ## Usage
 
